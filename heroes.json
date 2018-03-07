@@ -1,0 +1,85 @@
+{
+  "members": [
+    {
+	  "id": 1,
+      "name": "Molecule Man",
+      "age": 29,
+      "secretIdentity": "Dan Jukes",
+      "powers": "Radiation resistance",
+	  "weakness": "Rock"
+    },
+    {
+	  "id": 2,
+      "name": "Madame Uppercut",
+      "age": 39,
+      "secretIdentity": "Jane Wilson",
+      "powers": "Million tonne punch",
+      "weakness": "Water"  
+    },
+    {
+	  "id": 3,
+      "name": "Eternal Flame",
+      "age": 1000000,
+      "secretIdentity": "Unknown",
+      "powers": "Immortality",
+	  "weakness": "Earth"
+        
+    },
+	{
+	  "id": 4,
+	  "name": "Beast",
+      "age": 16,
+      "secretIdentity": "Unknown",
+      "powers": "Morhp",
+	  "weakness": "Food"
+	},
+	{
+	  "id": 5, 
+	  "name": "Ciclops",
+      "age": 26,
+      "secretIdentity": "Jack Gallager",
+      "powers": "Rayos X",
+	  "weakness": "Glass"
+	},
+	{
+	  "id": 6,
+	  "name": "Hulk",
+      "age": 48,
+      "secretIdentity": "Unknown",
+      "powers": "Stregnth",
+	  "weakness": "Love"
+	},
+	{
+	  "id": 7,
+	  "name": "Deadpool",
+      "age": 30,
+      "secretIdentity": "No se",
+      "powers": "Immortality",
+	  "weakness": "Nothing"
+	},
+	{
+	  "id": 8,
+	  "name": "Wolverine",
+      "age": 40,
+      "secretIdentity": "Hugh Jackman",
+      "powers": "Immortality",
+	  "weakness": "Nothing"
+	},
+	{
+	  "id": 9,
+	  "name": "Dark veader",
+      "age": 100000,
+      "secretIdentity": "Soy tu padre",
+      "powers": "Espada laser",
+	  "weakness": "El lado iluminado"
+	},
+	{
+	  "id": 10,	
+	  "name": "Luck skywaker",
+      "age": 20,
+      "secretIdentity": "Es el hijo",
+      "powers": "Espada laser",
+	  "weakness": "El papa"
+	}
+  ]
+}
